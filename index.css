@@ -46,6 +46,17 @@ html {
     font-size: 2em;
     border: 3px solid #333;
 }
+h2 {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    text-decoration: underline;
+}
+p {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
 /* Rule 6 */
 footer {
     position: fixed;
